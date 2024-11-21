@@ -25,6 +25,10 @@ mydata <- na.omit(mydata)
 
 Is attitude toward capitol punishment (cappun) independent of race (race)?
 If not, then whose view differs from whom??
+Data comes from the GSS of Chicago, 2016 survey 
+
+$H_O$ There is no difference in attitude on capital punishment depending on race.             
+$H_A$ There is a difference in attitude on capital punishment depending on race.
 
 # Methods
 
