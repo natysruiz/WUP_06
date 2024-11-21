@@ -30,6 +30,11 @@ Data comes from the GSS of Chicago, 2016 survey
 $H_O$ There is no difference in attitude on capital punishment depending on race.             
 $H_A$ There is a difference in attitude on capital punishment depending on race.
 
+cappun~race         
+is Categorical~Categorical          
+so we will use the helper file Categorical~Categorical          
+
+
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
